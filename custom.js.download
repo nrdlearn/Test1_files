@@ -1,0 +1,2 @@
+var links=document.links;for(let n=0,e=links.length;n<e;n++)links[n].hostname!==window.location.hostname&&(links[n].target="_blank",links[n].relList.add("noreferrer","noopener"));
+//# sourceMappingURL=/s/files/1/1122/3698/t/13/assets/custom.js.map?v=15457284565356122830
